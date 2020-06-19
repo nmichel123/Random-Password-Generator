@@ -2,4 +2,4 @@ This project was very frustrating to me. The node page helped me a lot through t
 
 Also I cannot figure out how to add a screenshot to this file, I will be adding it to the repository instead. 
 
-Link to deployed site: 
+Link to deployed site: https://nmichel123.github.io/Random-Password-Generator-HW3-/
